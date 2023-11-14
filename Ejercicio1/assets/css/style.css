@@ -1,0 +1,53 @@
+.recuadro {
+    
+    padding: 1em;
+    margin: 3px;
+    text-align: center;
+    background-color: #eff2ff;
+    flex: column;
+    height: 200px; 
+    width: 400px; 
+    border-radius: 10px;
+    float: left;
+    margin-right: 2cm;
+    margin-left: 1.5cm;
+    
+}
+
+
+
+.icon-pc{
+    width: 60px;
+    float: center;
+}
+
+.h1 {
+    font-size: 120px;
+    color: blue;
+    margin-left: 2cm;
+    margin-top: 450px;
+    font-family: 'coolvetica rg', sans-serif; 
+    
+}
+
+.p {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    
+    
+}
+
+.h2 {
+    font-size: 30px;
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    
+}
+
+
+
+
+    
+    

@@ -1,0 +1,51 @@
+
+.h2{
+    font-size: 30pt;
+    color: blue;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+
+
+}
+
+.h1{
+    font-size: 60pt;
+    color: blue;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 900;
+    
+    
+}
+
+.p{
+    font-size: 20pt;
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    margin-bottom: 70px;
+    
+
+}
+
+.strong{
+    font-weight: 700;
+}
+
+.text-container{
+    
+    max-width: 1000px; 
+    margin: 400px auto 0; 
+    text-align: left;
+    padding: 20px;
+}
+
+button{
+    font-family: 'Mulish', sans-serif;
+    font-weight: 700;
+    background-color: blue; 
+    color: white; 
+    font-size: 22pt; 
+    padding: 10px 100px; 
+    border: none;
+    cursor: pointer;
+    
+}
